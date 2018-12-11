@@ -1,0 +1,8 @@
+<resources>
+    <string name="download_complete">下载完成</string>
+    <string name="download_error">下载失败，请重试</string>
+    <string name="notify_already_download">已下载</string>
+    <string name="notify_download_result_title">%1$d个下载任务</string>
+    <string name="notify_download_result_content">%1$d个成功，%2$d个失败</string>
+    <string name="pause_all_downloading">已暂停下载</string>
+</resources>
